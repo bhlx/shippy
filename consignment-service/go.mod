@@ -1,4 +1,4 @@
-module github.com/bhlx/shippy/shippy-service-consignment
+module github.com/bhlx/shippy/consignment-service
 
 go 1.13
 
